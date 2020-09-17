@@ -4,7 +4,7 @@ A repository of projects that Qiskit Advocates are actively working on
 ## I have an idea I want to work on
 Open an issue using the [`new advocate project template`](https://github.com/qiskit-community/qiskit-advocate-projects/issues/new?assignees=&labels=help+wanted&template=new-advocate-project-template.md&title=Project+name) template.
 
-### Working Schedule Template
+## Working Schedule Template
 This is only a suggested schedule that you can try out and see if this helps with consistent progress on your projects in a more organized manner, communicate better with teammates and focus on your project here for short bursts of time so that these projects and your work commitments don't interfere with each other..... very much like a hackathon. </br> </br>
 This template is inspired by the fast-paced time-table of Qiskit Hackathons, bringing in the same collaborative spirit but also flexible as per your teams' and projects' needs, so make a copy and consider usage and modifications accordingly. The idea is to have all Advocates work on their problems of interest at the same time so that everyone is also online at the same time, making it easier to reach out for discussions and help recreating a hackathon experience.
 
