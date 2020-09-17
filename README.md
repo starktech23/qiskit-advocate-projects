@@ -16,7 +16,7 @@ This template is inspired by the fast-paced time-table of Qiskit Hackathons, bri
 | 16:00 - 16:15 | Break 2 |
 | 16:15 - 18:00 | Hacking Session 3 |
 
-### Recommended schedule guidelines:
+### Some suggested schedule guidelines:
 - Each weekend, both days (Saturday, Sunday).
 - The timings here are all in Coordinated Universal Time (UTC 0) so make sure to convert to your own as well as teammates' time zones accordingly.
 - Timings here are suggested so that all time zones are covered and maximum number of Advocates are active in that duration, but this is flexible according to team availability and you should consider shifting it to more comfortable time slots if needed.
